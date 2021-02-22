@@ -1,0 +1,17 @@
+{
+	"powers": [
+		"origins:climbing",
+		"bee:aviation",
+		"bee:floaty",
+		"origins:weak_arms",
+		"origins:fall_immunity",
+		"bee:small",
+		"bee:wax"
+		
+	],
+	"icon": "minecraft:honeycomb",
+	"order": 10,
+	"impact": 2,
+	"name": "Bee",
+	"description": "THE QUEEEEN THE QUEEN IS DEEEAD. MY PHEROMOOOONES ARE FUCKED"
+}
