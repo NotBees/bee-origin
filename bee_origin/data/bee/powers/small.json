@@ -3,9 +3,9 @@
 	"modifier": {
 		"attribute": "minecraft:generic.max_health",
 		"operation": "addition",
-		"value": -14
+		"value": -10
 		
 	},
 	"name": "Small Bee",
-	"description": "Being a bee, you only have 3 max hearts of health."
+	"description": "Being a bee, you only have 5 max hearts of health."
 }
