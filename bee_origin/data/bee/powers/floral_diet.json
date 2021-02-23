@@ -1,0 +1,27 @@
+{
+	"type": "origins:action_over_time",
+	
+	"entity_action": {
+		"type": "origins:feed",
+		"food": 2,
+		"saturation": 1.0
+					 },
+					 
+	"interval": 20,
+	
+	"condition": {
+		"type": "origins:block_in_radius",
+		"block_condition": {
+			"type": "origins:in_tag",
+			"tag": "minecraft:flowers"
+							},
+		"radius": 2,
+		"shape": "cube",
+		"comparison": ">=",
+		"compare_to": 1
+				 },
+				 
+	"name": "Floral Diet",
+	
+	"description": "Instead of eating like a human, you regain your hunger by hanging around flowers."
+}
